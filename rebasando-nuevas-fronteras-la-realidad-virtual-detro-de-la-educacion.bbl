@@ -1,0 +1,634 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{barahona2019cospaces}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=c42a7fe365d9073be805b831babf9cbb}{%
+           family={Barahona},
+           familyi={B\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {[Madrid]: Ministerio de Educación y Formación Profesional: Instituto~…}%
+      }
+      \strng{namehash}{0743e46a590470f6a4422cee120b4674}
+      \strng{fullhash}{0743e46a590470f6a4422cee120b4674}
+      \strng{bibnamehash}{0743e46a590470f6a4422cee120b4674}
+      \strng{authorbibnamehash}{0743e46a590470f6a4422cee120b4674}
+      \strng{authornamehash}{0743e46a590470f6a4422cee120b4674}
+      \strng{authorfullhash}{0743e46a590470f6a4422cee120b4674}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CoSpaces}
+      \field{title}{Realidad virtual en el aula}
+      \field{year}{2019}
+    \endentry
+    \entry{chen2020effectiveness}{article}{}
+      \name{author}{7}{}{%
+        {{hash=64d015e3446549b689971eb68e8035c4}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Feng-Qin},
+           giveni={F\bibinithyphendelim Q\bibinitperiod}}}%
+        {{hash=3f2bf1035d2fb959324e9b36c943f893}{%
+           family={Leng},
+           familyi={L\bibinitperiod},
+           given={Yu-Fei},
+           giveni={Y\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=5e914ef61ba4b8715cd9b23b63cbaa32}{%
+           family={Ge},
+           familyi={G\bibinitperiod},
+           given={Jian-Feng},
+           giveni={J\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=e37c0d4e25f85bf3fc11ec308b20c3e8}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Dan-Wen},
+           giveni={D\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=0fa86ce76f38abb4293116ef56b787fa}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e68812ef39031c269522ef59a77d9a06}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Bin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=af5b361ec80fcfa6df9f3029def48a69}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Zhi-Ling},
+           giveni={Z\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JMIR Publications Toronto, Canada}%
+      }
+      \strng{namehash}{c3d37d436968514307e21f5b52334ca2}
+      \strng{fullhash}{030a22ff7bcbaafd2d551019d4dbecad}
+      \strng{bibnamehash}{c3d37d436968514307e21f5b52334ca2}
+      \strng{authorbibnamehash}{c3d37d436968514307e21f5b52334ca2}
+      \strng{authornamehash}{c3d37d436968514307e21f5b52334ca2}
+      \strng{authorfullhash}{030a22ff7bcbaafd2d551019d4dbecad}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of medical Internet research}
+      \field{number}{9}
+      \field{title}{Effectiveness of virtual reality in nursing education: Meta-analysis}
+      \field{volume}{22}
+      \field{year}{2020}
+      \field{pages}{e18290}
+      \range{pages}{-1}
+    \endentry
+    \entry{elmqaddem2019augmented}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3b1e6dbbb00256fafdbe28deb749a9ab}{%
+           family={Elmqaddem},
+           familyi={E\bibinitperiod},
+           given={Noureddine},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b1e6dbbb00256fafdbe28deb749a9ab}
+      \strng{fullhash}{3b1e6dbbb00256fafdbe28deb749a9ab}
+      \strng{bibnamehash}{3b1e6dbbb00256fafdbe28deb749a9ab}
+      \strng{authorbibnamehash}{3b1e6dbbb00256fafdbe28deb749a9ab}
+      \strng{authornamehash}{3b1e6dbbb00256fafdbe28deb749a9ab}
+      \strng{authorfullhash}{3b1e6dbbb00256fafdbe28deb749a9ab}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of emerging technologies in learning}
+      \field{number}{3}
+      \field{title}{Augmented reality and virtual reality in education. Myth or reality?}
+      \field{volume}{14}
+      \field{year}{2019}
+    \endentry
+    \entry{GUERRERO2022100002}{article}{}
+      \name{author}{6}{}{%
+        {{hash=1a3299f2025771a486a3f6ed095a0fff}{%
+           family={Guerrero},
+           familyi={G\bibinitperiod},
+           given={Jefferson\bibnamedelima Garcia},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=1bd44b092093791f3d9350c79077907a}{%
+           family={Tungpalan-Castro},
+           familyi={T\bibinithyphendelim C\bibinitperiod},
+           given={Grace\bibnamedelima Medalyn},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e0c48cf284e4e86912bcb7902d45a7bf}{%
+           family={{Al Fergani}},
+           familyi={A\bibinitperiod},
+           given={Bara'ah},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7d9130b375eac45cba5bb47731c33a08}{%
+           family={Gomma},
+           familyi={G\bibinitperiod},
+           given={Nada\bibnamedelima Hassan},
+           giveni={N\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=0c9b8bd38e647f309a3dcc881201fabb}{%
+           family={Hafiz},
+           familyi={H\bibinitperiod},
+           given={Alaa\bibnamedelima Hussain},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=19b105d7d153da8b4515c7616fb62f11}{%
+           family={Pingue-Raguini},
+           familyi={P\bibinithyphendelim R\bibinitperiod},
+           given={Minerva},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7224bd4233cc24e87baad5b4538513f5}
+      \strng{fullhash}{8845777a023fdb3adc19b8a6c01f91dc}
+      \strng{bibnamehash}{7224bd4233cc24e87baad5b4538513f5}
+      \strng{authorbibnamehash}{7224bd4233cc24e87baad5b4538513f5}
+      \strng{authornamehash}{7224bd4233cc24e87baad5b4538513f5}
+      \strng{authorfullhash}{8845777a023fdb3adc19b8a6c01f91dc}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose This study compares the impact of high-fidelity simulation (HFS) and virtual simulation (VS) experiences on nurses for triaging suspected COVID-19 patients on the basis of their knowledge and skill acquisition. Background The essential tools for nurses' professional growth and development are not limited to participation in seminars or symposiums. Training, such as simulation, is also a crucial practice for improving nurses’ competency, especially during a pandemic. Methods This study employs a comparative research design. The nurses’ acquired knowledge and skills are evaluated by dividing them into Groups A and B, which are exposed to HFS and VS, respectively. Results The mean scores obtained by both groups in their post-tests are significantly higher than that obtained in their pre-tests, by an average of −18.38 for Group A and 22.14 for Group B. The mean scores obtained in their post-Objective Structured Clinical Examination (OSCE) is significantly higher than that in their pre-OSCE, by an average of −23.00 for Group A and 20.67 for Group B. Moreover, Group B's mean score in the post-test is significantly higher than Group A's by an average of −3.00. Group A's post-OSCE mean score is significantly higher than Group B's by an average of 2.92. Conclusions The professional competence of nurses exposed to HFS and VS improves significantly. Nurses exposed to VS acquire more knowledge, whereas nurses exposed to HFS develop higher-level skills.}
+      \field{issn}{2949-6780}
+      \field{journaltitle}{Computers \& Education: X Reality}
+      \field{title}{Impact of high-fidelity and virtual simulation experiences on nurses’ acquired knowledge and skills for triaging suspected COVID-19 patients}
+      \field{volume}{1}
+      \field{year}{2022}
+      \field{pages}{100002}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cexr.2022.100002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2949678022000022
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2949678022000022
+      \endverb
+      \keyw{high-Fidelity simulation,Virtual simulation,Acquired knowledge and skills,Professional competence}
+    \endentry
+    \entry{kaminska2019virtual}{article}{}
+      \name{author}{9}{}{%
+        {{hash=4407e0cad60bfee1de56764b1618c941}{%
+           family={Kamińska},
+           familyi={K\bibinitperiod},
+           given={Dorota},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d2f4ac492833d5c3eee8663a099591c9}{%
+           family={Sapiński},
+           familyi={S\bibinitperiod},
+           given={Tomasz},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b2f1b1bf998a645d9da45ebd60f70e57}{%
+           family={Wiak},
+           familyi={W\bibinitperiod},
+           given={S{ł}awomir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5bc13c1525435e48c93554be6a793290}{%
+           family={Tikk},
+           familyi={T\bibinitperiod},
+           given={Toomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0de4e9fbc04528294ec69058bb74db0c}{%
+           family={Haamer},
+           familyi={H\bibinitperiod},
+           given={Rain\bibnamedelima Eric},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=ccd3099e95153104d701bb0984511ced}{%
+           family={Avots},
+           familyi={A\bibinitperiod},
+           given={Egils},
+           giveni={E\bibinitperiod}}}%
+        {{hash=220bca674baf5cf4cbb6f1f9b433ab93}{%
+           family={Helmi},
+           familyi={H\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ea05871207212bd8ec0e80ab35b29dc4}{%
+           family={Ozcinar},
+           familyi={O\bibinitperiod},
+           given={Cagri},
+           giveni={C\bibinitperiod}}}%
+        {{hash=35ba326ff4a7dcb83e9c6955d84cd2ba}{%
+           family={Anbarjafari},
+           familyi={A\bibinitperiod},
+           given={Gholamreza},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{bbb0dc2685fa3d1d66ef0615b5cf4b35}
+      \strng{fullhash}{942aa8980c361e2376182016b9836424}
+      \strng{bibnamehash}{bbb0dc2685fa3d1d66ef0615b5cf4b35}
+      \strng{authorbibnamehash}{bbb0dc2685fa3d1d66ef0615b5cf4b35}
+      \strng{authornamehash}{bbb0dc2685fa3d1d66ef0615b5cf4b35}
+      \strng{authorfullhash}{942aa8980c361e2376182016b9836424}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information}
+      \field{number}{10}
+      \field{title}{Virtual reality and its applications in education: Survey}
+      \field{volume}{10}
+      \field{year}{2019}
+      \field{pages}{318}
+      \range{pages}{1}
+    \endentry
+    \entry{OJE2023100033}{article}{}
+      \name{author}{3}{}{%
+        {{hash=aa1b9488f05ffe5dab92e6a15cc20b50}{%
+           family={Oje},
+           familyi={O\bibinitperiod},
+           given={Adurangba\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=2548ea82c14cf4e449d49d3b94d457d3}{%
+           family={Hunsu},
+           familyi={H\bibinitperiod},
+           given={Nathaniel\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5b188ecc7074e8b12713240d4c20c01c}{%
+           family={May},
+           familyi={M\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{048f67ec7d6a2996e8d4c91665ca66e2}
+      \strng{fullhash}{048f67ec7d6a2996e8d4c91665ca66e2}
+      \strng{bibnamehash}{048f67ec7d6a2996e8d4c91665ca66e2}
+      \strng{authorbibnamehash}{048f67ec7d6a2996e8d4c91665ca66e2}
+      \strng{authornamehash}{048f67ec7d6a2996e8d4c91665ca66e2}
+      \strng{authorfullhash}{048f67ec7d6a2996e8d4c91665ca66e2}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Virtual Reality (VR) is a powerful technology that can enhance engineering education by providing immersive and interactive learning experiences. However, many VR studies in engineering education lack a clear theoretical or pedagogical framework to guide their design and evaluation. This scoping review analyzes 51 studies on VR-assisted engineering education and reveals the trends and gaps in the current research. We argue that engineering VR studies should be informed by theories of learning and instruction that address the cognitive and socio-cognitive aspects of learning. We also suggest that VR-assisted engineering education research should incorporate multimedia design and pedagogical principles to optimize the effectiveness of VR applications. Our perspective aims to inspire engineering educators, practitioners, and instructional designers to develop VR contents and formulate VR research imperatives grounded in sound educational theories and multimedia learning principles.}
+      \field{issn}{2949-6780}
+      \field{journaltitle}{Computers \& Education: X Reality}
+      \field{title}{Virtual reality assisted engineering education: A multimedia learning perspective}
+      \field{volume}{3}
+      \field{year}{2023}
+      \field{pages}{100033}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cexr.2023.100033
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2949678023000272
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2949678023000272
+      \endverb
+      \keyw{Virtual reality (VR),Design principles,Learning theories,Pedagogical principles,Multimedia learning,Engineering education}
+    \endentry
+    \entry{OYELERE2023100016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a4eb260afe135ae80b8c9f76c9ec121e}{%
+           family={Oyelere},
+           familyi={O\bibinitperiod},
+           given={Amos\bibnamedelima Sunday},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=452fbf81c62670208d70e27058f9836a}{%
+           family={Agbo},
+           familyi={A\bibinitperiod},
+           given={Friday\bibnamedelima Joseph},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f1ace09836b2c4987ca753682d65432a}{%
+           family={Oyelere},
+           familyi={O\bibinitperiod},
+           given={Solomon\bibnamedelima Sunday},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{02d90f9f3888302466888ee240f98ac0}
+      \strng{fullhash}{02d90f9f3888302466888ee240f98ac0}
+      \strng{bibnamehash}{02d90f9f3888302466888ee240f98ac0}
+      \strng{authorbibnamehash}{02d90f9f3888302466888ee240f98ac0}
+      \strng{authornamehash}{02d90f9f3888302466888ee240f98ac0}
+      \strng{authorfullhash}{02d90f9f3888302466888ee240f98ac0}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Recently, virtual reality (VR) technology has shown great potential in advancing education with many pedagogical benefits for building the 21st-century teaching and learning experience. This study conducted a formative evaluation of an immersive VR expedition application with the aim of understanding users' learning processes and how the application facilitates higher education students' computational thinking skills. Six participants were randomly selected to conduct this evaluation. A mixed research approach consisting of quantitative and qualitative methods was employed. The study quantitatively analyzed users' scores from gameplay to understand how the intervention supported computational thinking skills. Participants were also interviewed to collect data after playing the mini-games to investigate users' experiences. The study showcases players' computational thinking competency, assessed automatically during gameplay. Further, this study used inductive content analysis to demonstrate users' reactions to prototyped VR mini-games. The qualitative findings suggest that users found the VR mini-games interactive and immersive, which provided an opportunity to foster learners' computational thinking skills. The quantitative analysis revealed that student's computational thinking competency can be enhanced through consistent playing of the mini-games. Moreover, the expedition aspect of the VR game stimulated learners' curiosity, which sustained their learning progress. Furthermore, users gained new knowledge and found the mini-games educative. Nevertheless, several aspects of the VR mini-games need improvements, according to users' perceptions. This study contributes to the knowledge in terms of the affordances of VR in education research and provides relevant insights that can shape future studies, for example, the recent hype of metaverse in education.}
+      \field{issn}{2949-6780}
+      \field{journaltitle}{Computers \& Education: X Reality}
+      \field{title}{Formative evaluation of immersive virtual reality expedition mini-games to facilitate computational thinking}
+      \field{volume}{2}
+      \field{year}{2023}
+      \field{pages}{100016}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cexr.2023.100016
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2949678023000107
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2949678023000107
+      \endverb
+      \keyw{Virtual reality,Metaverse,Game-based learning,Computational thinking,Head mounted display,Higher education}
+    \endentry
+    \entry{rodriguez2021simulacion}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e0503440b46922cbb892e107f0c020b3}{%
+           family={Rodríguez},
+           familyi={R\bibinitperiod},
+           given={Juan\bibnamedelimb Samuel\bibnamedelima Magallanes},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=033dba2638186818cbfd57955a9c0393}{%
+           family={Aspiazu},
+           familyi={A\bibinitperiod},
+           given={Quely\bibnamedelimb Jacqueline\bibnamedelima Rodríguez},
+           giveni={Q\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=e624ccaef7cdfd8c3276443c975d245e}{%
+           family={Magallón},
+           familyi={M\bibinitperiod},
+           given={Ángel\bibnamedelimb Manuel\bibnamedelima Carpio},
+           giveni={Á\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=9abd40c1767846e1d4c106f7761504bb}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={Martha\bibnamedelimb Roció\bibnamedelima López},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{d1bec9267028779e46b8750aea445e22}
+      \strng{fullhash}{8bd0a9843f3a1d007d702dbbf29e4c85}
+      \strng{bibnamehash}{d1bec9267028779e46b8750aea445e22}
+      \strng{authorbibnamehash}{d1bec9267028779e46b8750aea445e22}
+      \strng{authornamehash}{d1bec9267028779e46b8750aea445e22}
+      \strng{authorfullhash}{8bd0a9843f3a1d007d702dbbf29e4c85}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reciamuc}
+      \field{number}{2}
+      \field{title}{Simulación y realidad virtual aplicada a la educación}
+      \field{volume}{5}
+      \field{year}{2021}
+      \field{pages}{101\bibrangedash 110}
+      \range{pages}{10}
+    \endentry
+    \entry{SHIM2023100010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=03ed9ce5d2a69389dacad23d253c13bb}{%
+           family={Shim},
+           familyi={S\bibinitperiod},
+           given={Jaekwoun},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{03ed9ce5d2a69389dacad23d253c13bb}
+      \strng{fullhash}{03ed9ce5d2a69389dacad23d253c13bb}
+      \strng{bibnamehash}{03ed9ce5d2a69389dacad23d253c13bb}
+      \strng{authorbibnamehash}{03ed9ce5d2a69389dacad23d253c13bb}
+      \strng{authornamehash}{03ed9ce5d2a69389dacad23d253c13bb}
+      \strng{authorfullhash}{03ed9ce5d2a69389dacad23d253c13bb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study was conducted to investigate whether a virtual reality (VR)-based morality education program is effective in cultivating morality among elementary school students. After conducting VR-based activities and classroom discussions, 162 elementary school students in South Korea were surveyed. According to Rest's theory, we measured moral sensitivity and moral judgment for the evaluation of moral development of students. The use of this model resulted in a significant improvement in moral sensitivity but no significant difference in moral judgment. This study revealed that, although moral sensitivity can be improved relatively easily through our educational program with VR, a separate educational effort is required to improve moral judgment. In addition, this study is meaningful in that it sheds light on the potential of VR, which is closely related to the technology used in the metaverse.}
+      \field{issn}{2949-6780}
+      \field{journaltitle}{Computers \& Education: X Reality}
+      \field{title}{Investigating the effectiveness of introducing virtual reality to elementary school students' moral education}
+      \field{volume}{2}
+      \field{year}{2023}
+      \field{pages}{100010}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cexr.2023.100010
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2949678023000041
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2949678023000041
+      \endverb
+      \keyw{Virtual reality,Elementary education,Human-computer interface,Collaborative learning,Media in education}
+    \endentry
+    \entry{YUDINTSEVA2023100018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=83c556216934d26bb79d1e1283d08594}{%
+           family={Yudintseva},
+           familyi={Y\bibinitperiod},
+           given={Anastassiya},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{83c556216934d26bb79d1e1283d08594}
+      \strng{fullhash}{83c556216934d26bb79d1e1283d08594}
+      \strng{bibnamehash}{83c556216934d26bb79d1e1283d08594}
+      \strng{authorbibnamehash}{83c556216934d26bb79d1e1283d08594}
+      \strng{authornamehash}{83c556216934d26bb79d1e1283d08594}
+      \strng{authorfullhash}{83c556216934d26bb79d1e1283d08594}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper reviews 34 studies related to oral communication in English as a Second Language through Virtual Reality published from 2015 to 2022. Overall, Virtual Reality affordances, such as immersion, interaction, feedback, and creation, were perceived positively and found to be effective in terms of anxiety, motivation, confidence, cultural awareness, creativity, and willingness to communicate. However, learning effectiveness was still inconclusive, especially in terms of oral fluency. The insignificant learning outcomes were likely caused by greater cognitive load, equity issues, unpleasant experiences, motion sickness, technology challenges, and lack of instructional activities suited to the Virtual Reality environment. Several strategies to address the challenges of current Virtual Reality platforms identified in the literature review were suggested.}
+      \field{issn}{2949-6780}
+      \field{journaltitle}{Computers \& Education: X Reality}
+      \field{title}{Virtual reality affordances for oral communication in English as a second language classroom: A literature review}
+      \field{volume}{2}
+      \field{year}{2023}
+      \field{pages}{100018}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cexr.2023.100018
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2949678023000120
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2949678023000120
+      \endverb
+      \keyw{VRALL,Virtual reality,VR,Virtual world,Affordances,English second/foreign language,Oral communication,Literature review}
+    \endentry
+    \entry{ZAMMIT2023100035}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0054aa76e99e35369579d5669c749f5c}{%
+           family={Żammit},
+           familyi={Ż\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0054aa76e99e35369579d5669c749f5c}
+      \strng{fullhash}{0054aa76e99e35369579d5669c749f5c}
+      \strng{bibnamehash}{0054aa76e99e35369579d5669c749f5c}
+      \strng{authorbibnamehash}{0054aa76e99e35369579d5669c749f5c}
+      \strng{authornamehash}{0054aa76e99e35369579d5669c749f5c}
+      \strng{authorfullhash}{0054aa76e99e35369579d5669c749f5c}
+      \field{sortinit}{Ż}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Virtual Reality (VR) has gained popularity in education, but its potential in language learning, specifically for teaching a minor language like Maltese, has been understudied. To address this gap, a mixed-methods study was conducted to explore the effectiveness of VR in language learning and identify the advantages and challenges of teaching Maltese as a second language (ML2) with a focus on improving language skills. Qualitative research involved a focus group, while quantitative analysis utilized an online survey with a Likert scale and 25 Maltese teachers as participants. The results revealed that younger respondents were more inclined to believe in the significant impact of VR on improving learning outcomes compared to older respondents. VR was found to effectively engage students in immersive environments and enhance the learning context with entertainment features. However, challenges related to costs, bulky headsets, and technical issues were also uncovered. Although VR tools are not currently utilized in teaching Maltese, this research explored their potential effectiveness in ML2 instruction and provided suggestions for effective integration into language teaching. The findings provide quantitative evidence supporting the effectiveness of VR tools in education and their potential to facilitate ML2 learning. Most participants expressed a positive perception, emphasizing the importance of integrating VR technology into Maltese teaching practices to create more engaging and immersive learning experiences for ML2 learners.}
+      \field{issn}{2949-6780}
+      \field{journaltitle}{Computers \& Education: X Reality}
+      \field{title}{Exploring the effectiveness of Virtual Reality in teaching Maltese}
+      \field{volume}{3}
+      \field{year}{2023}
+      \field{pages}{100035}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cexr.2023.100035
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2949678023000296
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2949678023000296
+      \endverb
+      \keyw{Virtual reality (VR),Educational VR technology,Second language acquisition,VR apps for language learning,An immersive VR environment,Maltese as a second language}
+    \endentry
+    \entry{zamudio2021realidad}{article}{}
+      \name{author}{3}{}{%
+        {{hash=43051efa89fd80c7bc4d3a273bbcccf5}{%
+           family={Zamudio},
+           familyi={Z\bibinitperiod},
+           given={Marleny\bibnamedelima Torres},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=6fb2f9b99859d12f7ba31f36b785ee1d}{%
+           family={Duran},
+           familyi={D\bibinitperiod},
+           given={Omaira\bibnamedelima Manzano},
+           giveni={O\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=b8a5e660bff737b96ad41a1ad291b31c}{%
+           family={Castro},
+           familyi={C\bibinitperiod},
+           given={Yolanda\bibnamedelima González},
+           giveni={Y\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8150f4a3e408b98afb850b2c93c8d67b}
+      \strng{fullhash}{8150f4a3e408b98afb850b2c93c8d67b}
+      \strng{bibnamehash}{8150f4a3e408b98afb850b2c93c8d67b}
+      \strng{authorbibnamehash}{8150f4a3e408b98afb850b2c93c8d67b}
+      \strng{authornamehash}{8150f4a3e408b98afb850b2c93c8d67b}
+      \strng{authorfullhash}{8150f4a3e408b98afb850b2c93c8d67b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Boletín Redipe}
+      \field{number}{3}
+      \field{title}{Realidad virtual, e-learning y estrategias de enseñanza aprendizaje. Evaluación de la actividad científica}
+      \field{volume}{10}
+      \field{year}{2021}
+      \field{pages}{232\bibrangedash 248}
+      \range{pages}{17}
+    \endentry
+    \entry{zhan2020augmented}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f05fd99a21b16c76688f1ed4fb01a6dc}{%
+           family={Zhan},
+           familyi={Z\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1609d49384b9f6e6954b0aae8836789b}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Kun},
+           giveni={K\bibinitperiod}}}%
+        {{hash=bb27d9a942756bba2803f4ad919f41aa}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Jianghao},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5268d357699e0207b367fffb15f27c5b}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Ziqian},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=60af765b90c95da889bcc46b562b0c8d}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Shin-Tson},
+           giveni={S\bibinithyphendelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{d7c148b6ebbd507e826e3662ddb00e0e}
+      \strng{fullhash}{d2c6c1f18d78aba38a73631fd8fe07e2}
+      \strng{bibnamehash}{d7c148b6ebbd507e826e3662ddb00e0e}
+      \strng{authorbibnamehash}{d7c148b6ebbd507e826e3662ddb00e0e}
+      \strng{authornamehash}{d7c148b6ebbd507e826e3662ddb00e0e}
+      \strng{authorfullhash}{d2c6c1f18d78aba38a73631fd8fe07e2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Iscience}
+      \field{number}{8}
+      \field{title}{Augmented reality and virtual reality displays: perspectives and challenges}
+      \field{volume}{23}
+      \field{year}{2020}
+    \endentry
+    \entry{zheng1998virtual}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8625e6a9acca8a5ac8d0a7abc4646301}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={JM},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a09323ea074572b3c052ed049a04dccb}{%
+           family={Chan},
+           familyi={C\bibinitperiod},
+           given={KW},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a9e4731121cfd89ba3bd5b9c190daa5b}{%
+           family={Gibson},
+           familyi={G\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6d7d04f76aeb942a8058143c97837d54}
+      \strng{fullhash}{6d7d04f76aeb942a8058143c97837d54}
+      \strng{bibnamehash}{6d7d04f76aeb942a8058143c97837d54}
+      \strng{authorbibnamehash}{6d7d04f76aeb942a8058143c97837d54}
+      \strng{authornamehash}{6d7d04f76aeb942a8058143c97837d54}
+      \strng{authorfullhash}{6d7d04f76aeb942a8058143c97837d54}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ieee Potentials}
+      \field{number}{2}
+      \field{title}{Virtual reality}
+      \field{volume}{17}
+      \field{year}{1998}
+      \field{pages}{20\bibrangedash 23}
+      \range{pages}{4}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
