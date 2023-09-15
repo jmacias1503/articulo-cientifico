@@ -1,5 +1,74 @@
-\documentclass{article}
+\documentclass[11pt]{article}
+
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[english, spanish,mexico]{babel}
+\usepackage{amsthm}
+\usepackage{bm}
+\usepackage{booktabs}
+\usepackage{color}
+\usepackage{csquotes}
+\usepackage{empheq}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{mdframed}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{psfrag}
+\usepackage{bookmark}
+\usepackage{hyperref}
+
+
+\hypersetup{
+   colorlinks=true,
+   linkcolor=black,
+   citecolor=black,
+   pdftitle={Rebasando Nuevas Fronteras, la Realidad Virtual dentro de la Educación},
+   urlcolor=blue
+}
+
+
+
+\usepackage{anyfontsize}
 \usepackage{fontspec}
+\usepackage{geometry}
+\usepackage{textcase}
+\usepackage{titlesec}
+\usepackage{xcolor}
 \usepackage[style=apa]{biblatex}
 \setmainfont{calibril.ttf}
+\newfontfamily{\barial}{ARIALBD.TTF}
+\newfontfamily{\arialblk}{ARIBLK.TTF}
+\newfontfamily{\calibri}{calibri-regular.ttf}
+\newfontfamily{\arial}{ARIAL.TTF}
+\definecolor{blue}{HTML}{006999}
+\titleformat{\section}
+{\color{blue}\fontsize{12}{14}\arialblk}{\thesection.}{1em}{\MakeTextUppercase}
+\titleformat{\subsection}
+{\color{blue}\fontsize{11}{13}\barial}{\thesubsection.}{1em}{}
+\titleformat{\subsubsection}
+{\color{blue}\fontsize{11}{13}\barial}{\thesubsubsection.}{1pt}{}
+\geometry{a4paper, left=1.18in, right=1.18in, top=0.47in, bottom=0.67in}
+\linespread{1.15}
+\setlength{\parindent}{0pt}
+\title{\color{blue}{\arialblk\fontsize{14}{17}\selectfont Rebasando Nuevas Fronteras, la Realidad Virtual Dentro de la Educación}\\{\barial\fontsize{12}{14}\selectfont Crossing New Frontiers, Virtual Reality in Education}}
+\author{
+   {\arial\fontsize{12}{14}\selectfont Josué Oziel Mondragon Fernández}\\
+   {\arial\fontsize{10}{12}\selectfont UAQ}\\
+   {\arial\fontsize{10}{12}\selectfont correo}\\
+   {\arial\fontsize{12}{14}\selectfont Alejandro Macias Fonseca}\\
+   {\arial\fontsize{10}{12}\selectfont UAQ}\\
+   {\arial\fontsize{10}{12}\selectfont correo}\\
+}
+
+
+\addbibresource{bibliografia-articulos-realidad-virtual.bib}
+
+\begin{document}
+\maketitle
 \input{rebasando-nuevas-fronteras-la-realidad-virtual-detro-de-la-educacion.tex}
+{\calibri\lipsum[1]}
+\printbibliography
+\end{document}
