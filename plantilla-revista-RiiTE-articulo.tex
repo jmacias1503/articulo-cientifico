@@ -30,7 +30,6 @@
 }
 
 
-
 \usepackage{anyfontsize}
 \usepackage{fontspec}
 \usepackage{geometry}
@@ -45,15 +44,15 @@
 \newfontfamily{\arial}{ARIAL.TTF}
 \definecolor{blue}{HTML}{006999}
 \titleformat{\section}
-{\color{blue}\fontsize{12}{14}\arialblk}{\thesection.}{1em}{\MakeTextUppercase}
+{\color{blue}\fontsize{12}{14}\arialblk}{\thesection.}{3pt}{\MakeTextUppercase}
 \titleformat{\subsection}
 {\color{blue}\fontsize{11}{13}\barial}{\thesubsection.}{1em}{}
 \titleformat{\subsubsection}
-{\color{blue}\fontsize{11}{13}\barial}{\thesubsubsection.}{1pt}{}
-\geometry{a4paper, left=1.18in, right=1.18in, top=0.47in, bottom=0.67in}
+{\color{blue}\fontsize{11}{13}\barial}{\thesubsubsection.}{1em}{}
+\geometry{a4paper, left=1.18in, right=1.18in, top=0.9in, bottom=0.97in}
 \linespread{1.15}
 \setlength{\parindent}{0pt}
-\title{\color{blue}{\arialblk\fontsize{14}{17}\selectfont Rebasando Nuevas Fronteras, la Realidad Virtual Dentro de la Educación}\\{\barial\fontsize{12}{14}\selectfont Crossing New Frontiers, Virtual Reality in Education}}
+\title{\color{blue}{\fontsize{10}{12}~}\\{\arialblk\fontsize{14}{17}\selectfont Rebasando Nuevas Fronteras, la Realidad Virtual Dentro de la Educación}\\{\barial\fontsize{12}{14}\selectfont Crossing New Frontiers, Virtual Reality in Education}}
 \author{
    {\arial\fontsize{12}{14}\selectfont Josué Oziel Mondragon Fernández}\\
    {\arial\fontsize{10}{12}\selectfont UAQ}\\
@@ -62,13 +61,14 @@
    {\arial\fontsize{10}{12}\selectfont UAQ}\\
    {\arial\fontsize{10}{12}\selectfont correo}\\
 }
+\date{}
 
 
 \addbibresource{bibliografia-articulos-realidad-virtual.bib}
 
+\AtBeginBibliography{\calibri}
 \begin{document}
 \maketitle
 \input{rebasando-nuevas-fronteras-la-realidad-virtual-detro-de-la-educacion.tex}
-{\calibri\lipsum[1]}
 \printbibliography
 \end{document}
