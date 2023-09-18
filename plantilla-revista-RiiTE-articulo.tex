@@ -13,6 +13,7 @@
 \usepackage{float}
 \usepackage{graphicx}
 \usepackage{lipsum}
+\usepackage[most]{tcolorbox}
 \usepackage{mdframed}
 \usepackage{multicol}
 \usepackage{multirow}
@@ -36,31 +37,46 @@
 \usepackage{textcase}
 \usepackage{titlesec}
 \usepackage{xcolor}
+
 \usepackage[style=apa]{biblatex}
+
 \setmainfont{calibril.ttf}
 \newfontfamily{\barial}{ARIALBD.TTF}
 \newfontfamily{\arialblk}{ARIBLK.TTF}
 \newfontfamily{\calibri}{calibri-regular.ttf}
 \newfontfamily{\arial}{ARIAL.TTF}
+
+
+\definecolor{introblock}{HTML}{DAEEF3}
 \definecolor{blue}{HTML}{006999}
+
+\newcommand\introblock[1]{\fcolorbox{introblock}{introblock}{\hspace{1em}#1\hspace{1em}}}
+
 \titleformat{\section}
 {\color{blue}\fontsize{12}{14}\arialblk}{\thesection.}{3pt}{\MakeTextUppercase}
 \titleformat{\subsection}
 {\color{blue}\fontsize{11}{13}\barial}{\thesubsection.}{1em}{}
 \titleformat{\subsubsection}
 {\color{blue}\fontsize{11}{13}\barial}{\thesubsubsection.}{1em}{}
+
+
 \geometry{a4paper, left=1.18in, right=1.18in, top=0.9in, bottom=0.97in}
 \linespread{1.15}
 \setlength{\parindent}{0pt}
+
+
+
 \title{\color{blue}{\fontsize{10}{12}~}\\{\arialblk\fontsize{14}{17}\selectfont Rebasando Nuevas Fronteras, la Realidad Virtual Dentro de la Educación}\\{\barial\fontsize{12}{14}\selectfont Crossing New Frontiers, Virtual Reality in Education}}
+
 \author{
    {\arial\fontsize{12}{14}\selectfont Josué Oziel Mondragon Fernández}\\
-   {\arial\fontsize{10}{12}\selectfont UAQ}\\
+   {\arial\fontsize{10}{12}\selectfont Universidad Autónoma de Querétaro (México)}\\
    {\arial\fontsize{10}{12}\selectfont correo}\\
    {\arial\fontsize{12}{14}\selectfont Alejandro Macias Fonseca}\\
-   {\arial\fontsize{10}{12}\selectfont UAQ}\\
-   {\arial\fontsize{10}{12}\selectfont correo}\\
+   {\arial\fontsize{10}{12}\selectfont Universidad Autónoma Querétaro (México)}\\
+   {\arial\fontsize{10}{12}\selectfont amacias15@alumnos.uaq.mx}\\
 }
+
 \date{}
 
 
@@ -69,6 +85,26 @@
 \AtBeginBibliography{\calibri}
 \begin{document}
 \maketitle
+
+\begin{tcolorbox}[colback=introblock,colframe=introblock]
+\section*{\fontsize{10}{12}\barial Resumen}
+      {\fontsize{10}{12}La Realidad Virtual (RV) está en un punto en el cual puede llegar a revolucionar la educación, ofreciendo a los estudiantes una experiencia de aprendizaje inmersiva que trasciende los enfoques convencionales. Este artículo explorará en profundidad cómo la RV está transformando las aulas y cómo podría cambiar el futuro de la educación. Mientras la RV permite a los estudiantes adentrarse en entornos tridimensionales que simulan situaciones del mundo real o conceptos abstractos, esto mismo ofrece ventajas notables para mejorar la retención y comprensión del conocimiento adquirido. Además, la colaboración y el aprendizaje se fomentan a través de proyectos virtuales. Estos desafíos se analizan mediante el apoyo de recolección de información de otras fuentes bibliográficas adquiridas en bases de datos como Google Académico (258,000 articulos encontrados, 7 utilizados) y Elsevier (1858 articulos encontrados, 13 utilizados), considerando la calidad de los mismos. Una de las fuentes principales de información ha sido la revista \textit{Computers \& Education: X Reality}, donde se habla a fondo acerca de las tecnologías que pueden ser implementadas y ayudar en la educación, utilizando las palabras clave \textit{virtual reality, education} (también traducida respectivamente al español). Con base en el análisis hecho de las fuentes de información, la RV puede llegar a ser una gran herramienta en la educación, mas no puede reemplazar partes importantes del sistema educativo tradicional, ya que se puede llegar a adicciones o sobre estimulación donde la experiencia de aprendizaje puede llegar a ser deslindada.} 
+
+\section*{\fontsize{10}{12}\barial Palabras Clave}
+   {\fontsize{10}{12}Educacion;Nuevas tecnologías;Realidad Virtual}
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=introblock,colframe=introblock]
+   \selectlanguage{english}
+\section*{\fontsize{10}{12}\barial Abstract}
+      {\fontsize{10}{12}Virtual Reality (VR) is at a point where it could revolutionize the education, offering students an immersive learning experience that can transcend the conventional teaching. This article will explore profoundly how VR is transforming the classrooms and how it could change the future of education. While VR allows students to immerse in 3D spaces that simulate real-world situations or abstract concepts. This offers notable improvements for information retention and acquired knowledge comprehension; also, the collaboration and learning are fomented through virtual projects. These challenges are analyzed with the support of recollected information from various sources, such as Google Scholar (258,000 articles found, 7 used) and Elsevier (1858 articles found, 13 used), considering their quality. One of the main sources of information was \textit{Computers \& Education: X Reality}, which talks profoundly about the technologies that could be implemented and help in the education sector. The keywords used were \textit{virtual reality, education}. With the analysis of the information sources, VR could be a great tool in education, but it can't replace the important qualities of the traditional educational system, because these devices can lead to addictions, or over stimulation where the learning experience could flinch.}
+
+\section*{\fontsize{10}{12}\barial Keywords}
+   {\fontsize{10}{12}Education;New Technologies;Virtual Reality}
+\selectlanguage{spanish}
+\end{tcolorbox}
 \input{rebasando-nuevas-fronteras-la-realidad-virtual-detro-de-la-educacion.tex}
+
+
 \printbibliography
 \end{document}
