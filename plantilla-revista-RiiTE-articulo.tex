@@ -40,10 +40,20 @@
 
 \usepackage[style=apa]{biblatex}
 
-\setmainfont{calibril.ttf}
+\setmainfont{calibril}[
+   Path = ./fonts/ttf/
+   extension = .ttf
+]
 \newfontfamily{\barial}{ARIALBD.TTF}
 \newfontfamily{\arialblk}{ARIBLK.TTF}
-\newfontfamily{\calibri}{calibri-regular.ttf}
+\newfontfamily{\calibri}{calibri}[
+   Path = ./fonts/ttf/,
+   extension = .ttf,
+   UprightFont = *-regular,
+   BoldFont = *-bold,
+   ItalicFont = *-italic,
+   BoldItalicFont = *-bold-italic
+]
 \newfontfamily{\arial}{ARIAL.TTF}
 
 
