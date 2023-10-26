@@ -8,3 +8,5 @@
 *.toc
 *.ttt
 latexmkrc
+*.nav
+*.snm
